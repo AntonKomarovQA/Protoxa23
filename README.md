@@ -8,7 +8,7 @@
   <img src="http://testbase.ru/wp-content/uploads/2014/12/1419215452_Checklist-64.png" width="50px"/>
      <a href ="https://github.com/"VladimirovES/SQL"">
   <img src="https://user-images.githubusercontent.com/89486551/143319757-0bbd31ce-7860-447a-9571-504653849d0b.png" width="50px"/>
-       <a href ="https://www.youtube.com/"watch?v=Ntm9A7h_9hw"">
+       <a href ="https://www.youtube.com/watch?v=QnBcoZRwmsI">
   <img src ="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width='50px'>
          <a href ="https://github.com/"VladimirovES/JS-practice"">
          <img src ="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width='50px'>
