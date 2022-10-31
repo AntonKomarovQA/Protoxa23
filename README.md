@@ -17,3 +17,15 @@
          </a>
      </p>
   </div> 
+       
+</div>
+                <div id="badges">
+                  <p align='center'>
+  <a href="https://t.me/kot_komarov">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anton-komarov-a12050225/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+        <p/>
+</div>
