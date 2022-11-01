@@ -4,9 +4,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50px"/>
     <a href ="https://github.com/Protoxa23/group_27/blob/main/Group_27.postman_collection.json">
   <img src="https://user-images.githubusercontent.com/99370940/160435038-7f0a69f0-f4aa-49f9-a8eb-86198977e167.png" width="50px"/>
-      <a href ="https://github.com/"VladimirovES/documentation"">
-  <img src="http://testbase.ru/wp-content/uploads/2014/12/1419215452_Checklist-64.png" width="50px"/>
-     <a href ="https://github.com/Protoxa23/group_27/tree/main/SQL%20-main">
+      <a href ="https://github.com/Protoxa23/group_27/tree/main/SQL%20-main">
   <img src="https://user-images.githubusercontent.com/89486551/143319757-0bbd31ce-7860-447a-9571-504653849d0b.png" width="50px"/>
        <a href ="https://www.youtube.com/watch?v=QnBcoZRwmsI">
   <img src ="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width='50px'>
